@@ -1,2 +1,2 @@
 # youtube-video-embed_autoplay
-Play youtube video (Autoplay)
+Play youtube video (Autoplay).
